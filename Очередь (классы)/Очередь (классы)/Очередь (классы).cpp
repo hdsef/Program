@@ -1,4 +1,4 @@
-// ГЋГ·ГҐГ°ГҐГ¤Гј
+// Очередь
 //
 #include "stdafx.h"
 #include <iostream>
@@ -20,6 +20,6 @@ int main()
 	q.pop(l);
 	q.printlist(l);
 	_gettch();
-	delete(l);
+	delete (l);
 	return 0;
 }
