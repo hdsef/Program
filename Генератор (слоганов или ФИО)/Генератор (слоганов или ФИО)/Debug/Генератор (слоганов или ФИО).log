@@ -1,0 +1,7 @@
+﻿  generator.cpp
+c:\users\max\documents\visual studio 2015\projects\языки 2 курс\генератор (слоганов или фио)\генератор (слоганов или фио)\generator.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Генератор (слоганов или ФИО).cpp
+  Генератор (слоганов или ФИО).vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\Генератор (слоганов или ФИО)\Debug\Генератор (слоганов или ФИО).exe
+  Генератор (слоганов или ФИО).vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\Генератор (слоганов или ФИО)\Debug\Генератор (слоганов или ФИО).pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  двусвязный список (классы).cpp
+c:\users\max\documents\visual studio 2015\projects\языки 2 курс\двусвязный список (классы)\двусвязный список (классы)\двусвязный список (классы).cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  двусвязный список (классы).vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\двусвязный список (классы)\Debug\двусвязный список (классы).exe
+  двусвязный список (классы).vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\двусвязный список (классы)\Debug\двусвязный список (классы).pdb (Full PDB)
