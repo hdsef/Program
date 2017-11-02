@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Стек через классы с записью в файл.cpp
+  Stack.cpp
+  DataB.cpp
+  Generating Code...
+c:\users\max\documents\visual studio 2015\projects\языки 2 курс\стек через классы с записью в файл (final)\стек через классы с записью в файл\stack.cpp(34): warning C4715: 'Stack::pop': not all control paths return a value
+  Стек через классы с записью в файл.vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\Стек через классы с записью в файл (Final)\Debug\Стек через классы с записью в файл.exe
+  Стек через классы с записью в файл.vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\Стек через классы с записью в файл (Final)\Debug\Стек через классы с записью в файл.pdb (Full PDB)
