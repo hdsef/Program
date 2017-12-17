@@ -9,7 +9,8 @@ struct Node {
 class Hash_table
 {
 private:
-	Node *arr[256];
+	Node **arr = new Node*[16];
+	int mass_size = 16;
 	int arr_adr(std::string key);
 public:
 	Hash_table();
@@ -18,6 +19,7 @@ public:
 	void get(std::string key);
 	void all_keys();
 	void all_vals();
+	void size_change(int n);
 	~Hash_table();
 };
 

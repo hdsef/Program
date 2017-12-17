@@ -16,6 +16,10 @@ int main()
 	tabl.all_keys();
 	printf_s("\n");
 	tabl.all_vals();
+	printf_s("\n");
+	printf_s("\n");
+	tabl.size_change(3);
+	tabl.all_keys();
     return 0;
 }
 
