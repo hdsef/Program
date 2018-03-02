@@ -6,7 +6,7 @@ users = []
 
 def connect_button(message):
     UDP_PORT = 5005
-    MESSAGE = socket.gethostbyname(socket.getfqdn())+"|"+message
+    MESSAGE = "@#"+socket.gethostbyname(socket.getfqdn())+"|"+message
     print ("UDP target port:", UDP_PORT)
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) # UDP
     sock.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
@@ -18,8 +18,10 @@ def Test():
     sock.bind(('', UDP_PORT))
     while True:
         data, addr = sock.recvfrom(1024) # buffer size is 1024 bytes
-        users.append(data.decode())
-        print ("received message:", data.decode())
+        if data.decode()[0]=="@" and data.decode()[1]=="#":
+            users.append(data.decode())
+        else:
+            print ("received message:", data.decode())
         
 #def main():
 c = threading.Thread(target=Test)
