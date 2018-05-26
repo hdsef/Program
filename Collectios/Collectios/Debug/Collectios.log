@@ -1,0 +1,13 @@
+﻿  Collectios.cpp
+c:\users\max\documents\visual studio 2015\projects\языки 2 курс\collectios\collectios\collectios.cpp(9): error C2259: 'Hash_Set<int>': cannot instantiate abstract class
+  c:\users\max\documents\visual studio 2015\projects\языки 2 курс\collectios\collectios\collectios.cpp(9): note: due to following members:
+  c:\users\max\documents\visual studio 2015\projects\языки 2 курс\collectios\collectios\collectios.cpp(9): note: 'void Collection<T>::add(void)': is abstract
+          with
+          [
+              T=int
+          ]
+  c:\users\max\documents\visual studio 2015\projects\языки 2 курс\collectios\collectios\collection.h(22): note: see declaration of 'Collection<T>::add'
+          with
+          [
+              T=int
+          ]
