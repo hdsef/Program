@@ -1,0 +1,9 @@
+﻿  Triangle.cpp
+c:\users\max\documents\visual studio 2015\projects\языки 2 курс\shapes\shapes\triangle.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\max\documents\visual studio 2015\projects\языки 2 курс\shapes\shapes\triangle.cpp(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Squar.cpp
+c:\users\max\documents\visual studio 2015\projects\языки 2 курс\shapes\shapes\squar.cpp(26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shapes.cpp
+  Generating Code...
+  Shapes.vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\Shapes\Debug\Shapes.exe
+  Shapes.vcxproj -> C:\Users\Max\Documents\Visual Studio 2015\Projects\Языки 2 курс\Shapes\Debug\Shapes.pdb (Full PDB)
